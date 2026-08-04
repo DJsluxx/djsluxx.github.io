@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://djsluxx.github.io/escape-in-an-envelope/sitemap.xml
