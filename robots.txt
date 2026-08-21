@@ -2,6 +2,7 @@ User-agent: *
 Allow: /
 
 Sitemap: https://djsluxx.github.io/escape-in-an-envelope/sitemap.xml
+Sitemap: https://djsluxx.github.io/escape-date-night/sitemap.xml
 Sitemap: https://djsluxx.github.io/food-cost-calculator/sitemap.xml
 Sitemap: https://djsluxx.github.io/rental-property-calculator/sitemap.xml
 Sitemap: https://djsluxx.github.io/seamless-patterns/sitemap.xml
